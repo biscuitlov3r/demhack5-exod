@@ -1,0 +1,6 @@
+{
+    "mykey_fingerprint": "",
+    "nodes": [{ "address": "someurl", "isprimary": 1 }],
+    "name": "Name",
+    "status": "Hi there!"
+}
