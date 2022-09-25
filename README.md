@@ -1,6 +1,6 @@
 # exod
 Decentralised messaging app with GPG encryption and anonymous accounts.<br>
-Use with Tor or with another anonymous network.<br>
+Use with Tor/any anonymous network.<br><br>
 start.py - requesting messages from your trusted contacts' nodes<br>
 api.py - core (decrypting, encrypting, sending and receiving messages)<br>
 post_service.py - storing your trusted contacts' messages<br>
